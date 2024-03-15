@@ -1,5 +1,5 @@
 {
-  "name": "@mantrahujan/kobokerss",
+  "name": "@bachtiar58/kobokerss",
   "version": "1.2.3",
   "description": "Automation for add views tiktok",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "Automation",
     "Added"
   ],
-  "author": "mantrahujan",
+  "author": "bachtiar58",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bachtiar58/kobocantik/issues"

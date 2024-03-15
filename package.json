@@ -1,5 +1,5 @@
 {
-  "name": "@bachtiar58/kobokerss",
+  "name": "@mantrahujan/kobokerss",
   "version": "1.2.3",
   "scripts": {
     "dev": "next dev",
@@ -7,7 +7,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "author": "bachtiar58",
+  "author": "mantrahujan",
   "license": "ISC",
   "repository": {
     "type": "git",

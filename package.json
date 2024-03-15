@@ -8,6 +8,13 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "author": "bachtiar58",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachtiar58/kobocantik.git"
+  },
+  "homepage": "https://github.com/bachtiar58/kobocantik#readme",
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",

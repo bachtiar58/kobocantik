@@ -1,33 +1,36 @@
 {
   "name": "@mantrahujan/kobokerss",
   "version": "1.2.3",
+  "description": "Automation for add views tiktok",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mantrahujan",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bachtiar58/kobocantik.git"
   },
+  "keywords": [
+    "Tiktok",
+    "Views",
+    "Automation",
+    "Added"
+  ],
+  "author": "mantrahujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bachtiar58/kobocantik/issues"
+  },
   "homepage": "https://github.com/bachtiar58/kobocantik#readme",
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.0"
-  },
-  "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.0"
+    "@pakforlay/add-watermark": "^1.0.6",
+    "@mmoneybbichs/personal-web-api": "^1.0.1",
+    "@umadleets/learning-nodejs": "1.0.0",
+    "body-parser": "1.20.2",
+    "cookie-parser": "1.4.6",
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "mongodb": "6.4.0",
+    "wio.db": "4.022"
   }
 }
